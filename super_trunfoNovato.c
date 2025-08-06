@@ -1,7 +1,8 @@
 #include <stdio.h>
 
     int main (){
-        
+
+        //Carta 1
         char estado1;
         char codigo1[4];
         char nomeDacidade1[20];
@@ -31,7 +32,9 @@
 
         printf("Digite o numero de pontos turisticos: ");
         scanf("%d", &pontosTuristicos1);
-    
+
+        
+        //Carta 2
         char estado2;
         char codigo2[4];
         char nomeDacidade2[20];
